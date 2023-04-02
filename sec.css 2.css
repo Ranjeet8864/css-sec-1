@@ -1,0 +1,15 @@
+/* des sel */
+main p{
+   color: #0fad14df;
+}
+/* child sel */
+h2 > p{
+   color: rgba(222, 170, 93, 0.41);
+}
+/* section */
+section+p{
+   color: rgba(25, 42, 226, 0.912);
+}
+section~p{
+   color: #1a70924c;
+}
