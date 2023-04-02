@@ -1,0 +1,16 @@
+/* elemant selectors */
+h1{
+   color: rgba(53, 165, 107, 0.608);
+}
+p{
+   color: rgb(5, 48, 41);
+}
+/* class selctor */
+.par{
+   color: rgba(43, 102, 184, 0.612);
+}
+/* id selector */
+#id1{
+   color: #ed1722e3;
+   background-color: aqua;
+}
